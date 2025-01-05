@@ -1,3 +1,4 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuilhermeTavares13&theme=dark)](https://git.io/streak-stats)
+[![roadmap.sh](https://roadmap.sh/card/tall/676dbd9270129741a86d63e4?variant=dark)](https://roadmap.sh)
