@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Guilherme Tavares!
 
-## 💻 Software Developer passionate about coding
+## 💻 Software Developer 
 
 ### 🚀 About Me
 - 🔭 Building awesome software solutions
