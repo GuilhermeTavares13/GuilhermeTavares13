@@ -14,7 +14,7 @@
 ```
 const skills = {
     languages: ['Delphi','JavaScript', 'Python', 'Java'],
-    tools: ['Git', 'VS Code'],
+    tools: ['Git','Docker'],
     always: 'Learning new things'
 }
 ```
