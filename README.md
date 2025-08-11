@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 ```
 const skills = {
-    languages: ['Delphi','JavaScript', 'Python', 'Java'],
+    languages: ['Delphi','JavaScript', 'C#'],
     tools: ['Git','Docker'],
     always: 'Learning new things'
 }
